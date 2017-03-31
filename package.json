@@ -32,5 +32,8 @@
       "env"
     ]
   },
+  "publishConfig": {
+  	"access": "public"
+  },
   "homepage": "https://github.com/noise-machines/normalize#readme"
 }
